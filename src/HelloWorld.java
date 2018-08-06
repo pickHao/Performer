@@ -5,6 +5,6 @@
 public class HelloWorld {
 
     public static void main(String[] arg){
-        System.out.println("Player！！Fighting");
+        System.out.println("Player！Fighting");
     }
 }
